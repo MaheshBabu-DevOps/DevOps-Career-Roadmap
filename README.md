@@ -4,11 +4,6 @@ This is a step-by-step guide on how to become a DevOps engineer, with links to r
 
 If you want to learn more about DevOps, be sure to subscribe to **[my newsletter](https://newsletter.techworld-with-milan.com/)**. 
 
-## Support My Work
-
-If you find this repository helpful, consider supporting me on Patreon:
-
-[![Patreon](patreon.png)](https://www.patreon.com/techworld_with_milan)
 
 ## Disclaimer
 
